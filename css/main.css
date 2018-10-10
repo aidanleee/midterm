@@ -1,6 +1,6 @@
 
 .hidden {
-	display:none;
+  display:none;
 }
 
 body
@@ -92,13 +92,42 @@ body
   background: transparent;
 }
 
+.menu:hover{
+  background-color: black;
+}
+
+a:hover{
+  color: white;
+}
 
 p{
   text-align: justify;
 }
 
+div.img{
+  background-color: black;
+}
+
+.zoom:hover {
+    transform: scale(1.2);
+  }
+title{
+  background-color: black;
+  
+}
 
 
+h1 {
+  color: white;
+  border-color: solid black;
+  border-style: solid;
+  background-color: black;
+
+}
+.title:hover{
+  background-color: orange;
+  color: white;
+}
 
 .Button{
   
