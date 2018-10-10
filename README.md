@@ -16,7 +16,7 @@ This is a web app for the House Com ThermoSecure System. This app houses informa
 
 * **Aidan Lee** - *Web Developer* - [aidanleee](https://github.com/aidanleee)
 
-* **Kyle Smeltzer** - *3D Motion Designer* - [kylesmeltzer](https://github.com/kylesmeltzer)
+* **Jonathan Smeltzer** - *3D Motion Designer* - [kylesmeltzer](https://github.com/kylesmeltzer)
 
 * **Connor Herring** - *Graphic Designer* - [CanxcK](https://github.com/CanxcK)
 
