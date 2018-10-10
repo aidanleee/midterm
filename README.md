@@ -5,6 +5,7 @@ This is a web app for the House Com ThermoSecure System. This app houses informa
 ## Built With
 
 * [Foundation](https://foundation.zurb.com) - The web framework used
+* [Gulp](https://gulpjs.com) - Manage Dependencies
 
 
 ## Authors
